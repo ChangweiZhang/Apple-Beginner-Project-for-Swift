@@ -9,7 +9,7 @@
 import UIKit
 
 class TodoListTableViewController: UITableViewController {
-    var todoItems:NSMutableArray=NSMutableArray()
+    var todoItems:NSMutableArray!
     
     func loadinitData()
     {
