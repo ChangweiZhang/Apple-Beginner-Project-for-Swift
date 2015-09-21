@@ -1,10 +1,10 @@
 Apple-Beginner-Project-for-Swift
 ================================
 
-The iOS Beginner Project is rewrited  using Swift, which Apple writed with Objective-C.
+The iOS Beginner Project is rewritten using Swift, which Apple originally wrote with Objective-C.
 After you run the project, you will see a TodoList app.
 
-It's wirted in Xcode 6 GM, and based on Swift Language.
+It's written in Swift (Apple's new programming language) using Xcode 6 GM.
 
 The offical guideline URL:
 https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/index.html
